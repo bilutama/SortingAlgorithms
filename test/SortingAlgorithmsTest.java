@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.Random;
 
-public class SortingAlgorithmsTests {
+public class SortingAlgorithmsTest {
     final static int ARRAY_SIZE = 100;
     final static int MAX_RANDOM_VALUE = 1000;
 
