@@ -1,5 +1,5 @@
 # Sorting Algorithms
-Implemented algorithms for sorting array:
+Implemented algorithms for sorting an array:
 - Bubble sort
 - Heap sort
 - Insertion sort
